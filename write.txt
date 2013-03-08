@@ -1,0 +1,4 @@
+45 total: 0     succeed: 0  prob: -nan  sizeofGroup ==1
+49 total: 0     succeed: 0  prob: -nan  sizeofGroup ==2
+234 total: 0     succeed: 0  prob: -nan  sizeofGroup ==1
+474 total: 0     succeed: 0  prob: -nan  sizeofGroup ==1
