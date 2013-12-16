@@ -1,5 +1,5 @@
 #!/usr/bin/expect -f
-set password iamabu0216
+set password
 
 
 #download local host
